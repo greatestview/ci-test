@@ -1,0 +1,9 @@
+/* this line will be removed in all.prod.css */
+body {
+    background: red;
+}
+
+/* me too */
+p {
+    font-size: 100%;
+}

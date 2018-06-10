@@ -1,0 +1,11 @@
+# OS garbage files
+*.DS_Store
+ehthumbs.db
+Icon
+Thumbs.db
+
+# build folder
+/dist
+
+# npm
+node_modules

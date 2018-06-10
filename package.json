@@ -1,0 +1,26 @@
+{
+  "name": "ci-test",
+  "version": "1.0.0",
+  "description": "",
+  "license": "UNLICENSED",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/greatestview/ci-test.git"
+  },
+  "scripts": {
+    "gulp": "gulp"
+  },
+  "bugs": {
+    "url": "https://github.com/greatestview/ci-test/issues"
+  },
+  "homepage": "https://github.com/greatestview/ci-test#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.4.0",
+    "gulp-cli": "^2.0.1",
+    "gulp-filter": "^5.1.0",
+    "gulp-rename": "^1.2.3",
+    "gulp-strip-comments": "^2.5.2"
+  }
+}
