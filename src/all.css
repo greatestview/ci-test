@@ -7,3 +7,7 @@ body {
 p {
     font-size: 100%;
 }
+
+em {
+    font-style: italic;
+}
